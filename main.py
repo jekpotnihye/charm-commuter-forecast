@@ -19,7 +19,7 @@ everyone at the bus stop is running late.
 import os
 
 FORECAST = (
-    "Hobbleton: cloudy, with a chance of second breakfasts; "
+    "Hobbleton: overcast, with scattered second breakfasts; "
     "the 8:15 fog is running ten minutes late, like everyone else."
 )
 
