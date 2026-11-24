@@ -9,8 +9,9 @@ extra output.
 The line keeps the register of a real broadcast forecast:
 the city is named first, then the weather, then a timing
 detail, in the forecast's own rhythm. The city, Hobbleton,
-is invented. The concrete detail is the 8:15 fog, a
-commuter's kind of weather: a fog with a timetable. The
+is invented. The weather itself is bent: breakfasts fall
+scattered, like showers. The concrete detail is the 8:15
+fog, a commuter's kind of weather: a fog with a timetable. The
 turn at the end is the joke that makes a bored commuter
 smile, because the fog is running late exactly the way
 everyone at the bus stop is running late.
